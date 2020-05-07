@@ -1,7 +1,7 @@
 
 ##  Чтобы развернуть проект необходимо:
 ```sh
-$ git clone git@github.com:loftschool/advanced-boilerplate.git
+$ git clone https://github.com/brusx88/vue.git
 $ cd advanced-boilerplate
 $ npm install
 ```
