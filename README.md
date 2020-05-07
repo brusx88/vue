@@ -2,7 +2,7 @@
 ##  Чтобы развернуть проект необходимо:
 ```sh
 $ git clone https://github.com/brusx88/vue.git
-$ cd advanced-boilerplate
+$ cd vue
 $ npm install
 ```
 
